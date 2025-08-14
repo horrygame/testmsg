@@ -3,7 +3,7 @@ import time
 
 while True:
     try:
-        requests.get("https://ваш-сервис.onrender.com")
+        requests.get("https://testmsg-562i.onrender.com")
         print("Server pinged")
     except:
         pass
